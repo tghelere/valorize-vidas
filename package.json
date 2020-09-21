@@ -34,8 +34,10 @@
     "@fortawesome/vue-fontawesome": "^0.1.10",
     "bulma": "^0.9.0",
     "normalize.css": "^8.0.1",
-    "vue": "^2.6.11",
-    "vue-router": "^3.4.2"
+
+    "vue": "^2.6.12",
+    "vue-router": "^3.4.0"
+
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.3",
